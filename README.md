@@ -9,6 +9,6 @@
 - 🤔 I’m looking for help with no one xd
 - 💬 Ask me about nothing
 - 📫 How to reach me: Nope
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: Bite of 87
 
