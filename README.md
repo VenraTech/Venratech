@@ -4,3 +4,8 @@
 I usally code in C++. However, I'm mostly known for making GDI malwares such as Ununennium and Unbinilium 0.5. 🦠
 
 ![plasmargb](https://github.com/user-attachments/assets/6e294b50-7ffe-4c1e-81ca-082c819c0d90)
+
+# 🤔 I also use Dev C++ to create my programs.
+It used to be Falcon C++ but now is Dev C++.
+
+# ℹ️ My channels:
