@@ -9,3 +9,7 @@ I usally code in C++. However, I'm mostly known for making GDI malwares such as 
 It used to be Falcon C++ but now is Dev C++.
 
 # ℹ️ My channels:
+Venra: My main channel. For my tech videos.
+Sickdows: My horror channel.
+![image](https://github.com/user-attachments/assets/00bf3e3e-1ab1-48e4-9759-096e72a52344)
+![image](https://github.com/user-attachments/assets/8e65c02e-5d96-4394-9982-a8c8427ea357)
