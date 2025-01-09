@@ -1,14 +1,3 @@
-## Hi there 👋
-## I am Venra! aka Venny! I am a malware maker and a coder in C++ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Hello!++𓇢𓆸+;✳++My+Name+is+Venra.++✳;Welcome+to+My+Github+Profile++😄+++;|◉o◉|⊃━☆)](https://git.io/typing-svg)
 
-
-
-- 🔭 I’m currently working on some misc stuff
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate for no one
-- 🤔 I’m looking for help with no one xd
-- 💬 Ask me about nothing
-- 📫 How to reach me: Nope
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Bite of 87
-
+## I am a C++ dev.
